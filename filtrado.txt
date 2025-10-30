@@ -1,0 +1,1 @@
+Propuesta: implementar un filtro por categoría utilizando botones dinámicos que muestren solo productos del tipo seleccionado (por ejemplo: frutas, verduras, granos).
